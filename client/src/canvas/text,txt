@@ -1,0 +1,6 @@
+shirt.jsx
+
+map={logoTexture}/*to render the full texture*/
+          map-anisotropy={16}/*change the quality if a texture by changing property map-ani.*/
+          depthTest={false}/*insure to run at the top of the obj.*/
+          depthWrite={true}
